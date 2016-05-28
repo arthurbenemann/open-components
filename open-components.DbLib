@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Diodes
+LastFocusedTable=Capacitor
 [Table1]
 SchemaName=
 TableName=Capacitor
@@ -44,9 +44,6 @@ TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|HelpURL0=939|Supplier 10=75|Supplier Part Number 10=142|Manufacturer Part Number0=160|Manufacturer0=103|Description0=206|Voltage - DC Reverse (Max)0=160|Current0=69|Reverse Recovery Time (trr)0=157|Type0=52|Library Ref0=77|Footprint Ref0=92|Library Path0=120|Footprint Path0=141|Operating Temperature0=143
 [Table5]
 SchemaName=
 TableName=FET
