@@ -345,7 +345,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NTHWKPDX
 
 [Document19]
-DocumentPath=Symbols\Atmel\ATmega.SchLib
+DocumentPath=Symbols\Atmel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
